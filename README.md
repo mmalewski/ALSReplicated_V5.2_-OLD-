@@ -1,3 +1,7 @@
+This repository marked a long journey of learning for me in Unreal. I thank everyone for their support to this repository, even though the final version is not 100% bug-free XD.
+
+New ALS repository: https://github.com/Cesio137/ALS_Replicated/tree/master
+
 # ALSReplicated UE 4.26 | 4.27 | 5.1 | 5.2
 
 This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
